@@ -1,0 +1,9 @@
+#passenger_details
+{
+	margin-top: -20px;
+}
+
+#passenger_details tbody.selected
+{
+	display: block;
+}

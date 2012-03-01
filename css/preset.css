@@ -1,0 +1,26 @@
+#airplane,
+#airplane a
+{
+	cursor: default;
+}
+
+#airplane li
+{
+	visibility: visible;
+}
+
+#tabs
+{
+	display: block;
+}
+
+#passenger_details tbody
+{
+	color: #999;
+	display: none;
+}
+
+#passenger_details tbody.selected
+{
+	display: table-row-group;
+}
