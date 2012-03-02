@@ -179,47 +179,47 @@ input.button
 /* =Airplane - Seat Numbers
 ----------------------------------------------------------------------*/
 
-#airplane .seat_01
+#airplane .seat_1
 {
 	left: 123px;
 }
 
-#airplane .seat_02
+#airplane .seat_2
 {
 	left: 139px;
 }
 
-#airplane .seat_03
+#airplane .seat_3
 {
 	left: 155px;
 }
 
-#airplane .seat_04
+#airplane .seat_4
 {
 	left: 171px;
 }
 
-#airplane .seat_05
+#airplane .seat_5
 {
 	left: 187px;
 }
 
-#airplane .seat_06
+#airplane .seat_6
 {
 	left: 203px;
 }
 
-#airplane .seat_07
+#airplane .seat_7
 {
 	left: 219px;
 }
 
-#airplane .seat_08
+#airplane .seat_8
 {
 	left: 235px;
 }
 
-#airplane .seat_09
+#airplane .seat_9
 {
 	left: 251px;
 }
@@ -304,46 +304,6 @@ input.button
 	left: 522px;
 }
 
-/* =Tabbed List
-----------------------------------------------------------------------*/
-
-#tabs
-{
-	display: none;
-	list-style: none;
-}
-
-#tabs a
-{
-	color: #00f;
-	display: block;
-	padding: 5px 0;
-	text-align: center;
-	width: 26px;
-}
-
-#tabs a:hover,
-#tabs a:focus
-{
-	background: #ddd;
-	text-decoration: underline;
-}
-
-#tabs a.selected
-{
-	background: #036;
-	color: #fff;
-	font-weight: bold;
-}
-
-#tabs li
-{
-	display: block;
-	float: left;
-	padding: 0 0 5px;
-	width: 26px;
-}
-
 /* =Passenger Details
 ----------------------------------------------------------------------*/
 
@@ -382,14 +342,6 @@ input.button
 {
 	background: #ff9;
 	color: #000;
-}
-
-#passenger_details label
-{
-	display: block;
-	overflow: hidden;
-	width: 0;
-	height: 0;
 }
 
 #passenger_details input,
